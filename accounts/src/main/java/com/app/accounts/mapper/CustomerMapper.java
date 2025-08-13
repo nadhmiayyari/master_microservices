@@ -1,8 +1,6 @@
 package com.app.accounts.mapper;
 
-import com.app.accounts.dto.AccountsDto;
 import com.app.accounts.dto.CustomerDto;
-import com.app.accounts.entity.Account;
 import com.app.accounts.entity.Customer;
 
 public class CustomerMapper {
